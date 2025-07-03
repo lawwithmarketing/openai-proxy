@@ -1,8 +1,5 @@
-json{
+{
   "name": "openai-proxy",
   "version": "1.0.0",
-  "description": "개인용 OpenAI API 프록시 서버",
-  "scripts": {
-    "dev": "vercel dev"
-  }
+  "description": "개인용 OpenAI API 프록시 서버"
 }
